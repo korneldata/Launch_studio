@@ -1,2 +1,2 @@
 # Launch_studio
-Python Selenium web scraper
+Web scraping project including selecting dynamic option on website: https://launchstudio.bluetooth.com/Listings/Search using Python Selenium library. 
